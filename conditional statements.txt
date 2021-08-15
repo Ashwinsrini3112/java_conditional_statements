@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing Conditional Statments!</title>
+</head>
+<body>
+    <h1>Testing selections!</h1>
+        
+    <script>
+        /*var happy = true;
+        var depressed = false;
+        var green = 100;
+        
+        if(green)
+        {
+            console.log("it is true");
+        }
+        else
+        {
+            console.log("it is false")
+        } */
+
+        var colour = ["red", "yellow", "blue" , "green" ];
+        var selectedcolour = colour[2];
+        
+        /* if else conditions 
+        
+        if(selectedcolour == 'red')
+        {
+            console.log("the colour selected is red");
+        
+        }
+        else if(selectedcolour == 'yellow')
+        {
+            console.log("the selected colour is yellow");
+
+        }   
+        else if(selectedcolour == 'blue')
+        {
+            console.log("the selected colour is blue");
+        }
+        else 
+            {
+                console.log("the selected colour is green");
+            }
+
+        */
+
+        /*  switch statement
+        
+        switch(selectedcolour)
+        {
+            case "red": console.log("the selected colour is red");
+            break;
+            case "yellow": console.log("the selected colour is yellow");
+            break;
+            case "blue": console.log("the selected colour is blue");
+            break;
+            case "green": console.log("the selected colour is green");
+            break;
+            default: console.log("there was an error");
+            break;
+
+        }
+          */
+
+
+          /* && statements
+
+         var goodMood = true;
+         var badMood = false;
+
+         if(goodMood && badMood)
+         {
+             console.log("i am having a good day");
+         }
+         else
+         {
+             console.log("i am dizzy");
+         }
+
+         */ 
+
+         /* || statements 
+
+
+         var breakFast = true;
+         var lunch = true;
+         var dinner = false;
+
+         if(breakFast || lunch || dinner)
+
+            {
+                console.log("i am full today");
+            }         
+            else
+            {
+                console.log("I am starving");
+            }
+
+            */
+
+            
+        </script>
+    
+</body>
+</html>
